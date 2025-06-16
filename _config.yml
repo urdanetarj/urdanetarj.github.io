@@ -1,0 +1,10 @@
+title: "Ricardo Urdaneta"
+description: "DevOps & Backend Developer Portfolio"
+baseurl: ""
+url: "https://ricardourdaneta.github.io"
+
+theme: "theme"  # Apunta a la carpeta del submódulo
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
