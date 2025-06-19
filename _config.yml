@@ -119,28 +119,28 @@ author:
   location         : "Buenos Aires - Argentina"
   email            : "urdanetarj1994@gmail.com"
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/rurdaneta_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/urdanetarj"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ricardo-urdaneta-2b3764118"
+    - label: ""
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/rurdaneta_"
 
 # Site Footer
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/rurdaneta_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/urdanetarj"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ricardo-urdaneta-2b3764118"
+    - label: ""
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/rurdaneta_"
 
 # Reading Files
 include:
