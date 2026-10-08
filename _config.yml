@@ -19,16 +19,16 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Ricardo Urdaneta"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "AI Engineering, Backend Development & DevOps"
 name                     : "Ricardo Urdaneta"
-description              : "Personal DevOps & Backend Developer Portfolio using Jekyll and Minimal Mistakes theme."
+description              : "AI Engineer and Backend Developer specializing in Python, AI agent development, DevOps, cloud automation, and integrations with financial screening providers such as Moody's and LSEG."
 url                      : "https://urdanetarj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "urdanetarj/urdanetarj.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -95,7 +95,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/social-preview.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Ricardo Urdaneta"
-  avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "Python backend developer expanding into DevOps and cloud automation."
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "AI Engineer and Backend Developer focused on Python, AI agent development, DevOps, cloud automation, and financial screening integrations with Moody's and LSEG."
   location         : "Buenos Aires - Argentina"
   email            : "urdanetarj1994@gmail.com"
   links:
@@ -209,7 +209,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Argentina/Buenos_Aires"
 
 
 # Pagination with jekyll-paginate

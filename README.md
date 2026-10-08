@@ -1,8 +1,18 @@
-# 🧭 DevOps Roadmap for Backend Developer (Python)
+# 🤖 AI Engineer & Backend Developer Roadmap
 
-This roadmap is designed to help you transition from your current role as a backend developer in Python to a professional DevOps engineer.
+This roadmap reflects my growth as an AI Engineer and Backend Developer, combining Python, AI agent development, DevOps, cloud automation, and production-oriented software engineering.
+
+The goal is to build intelligent, reliable, and scalable systems that connect modern AI capabilities with real-world backend and infrastructure problems.
 
 ---
+
+## 🤖 AI Engineering
+
+### 🎯 Focus Areas
+- Design and development of reliable AI agents.
+- Intelligent automation and agentic workflows.
+- AI-enabled backend systems and APIs.
+- Evaluation, observability, and production readiness for AI solutions.
 
 ## 📌 Phase 1: DevOps Fundamentals
 
@@ -98,13 +108,13 @@ This roadmap is designed to help you transition from your current role as a back
 
 ---
 
-## 🛤 Next Step
+## 🛤 Current Focus
 
-1. Docker + GitHub Actions + Linux.
-2. Terraform + AWS.
-3. Basic Kubernetes.
-4. Prometheus + Grafana.
-5. Sample project: CI/CD → Docker → deploy on Kubernetes (AWS).
+1. Build practical AI agents and intelligent automation workflows.
+2. Strengthen AI-enabled backend architectures with Python.
+3. Docker + GitHub Actions + Linux.
+4. Terraform + AWS.
+5. Kubernetes, observability, and secure production deployments.
 
 ---
 
